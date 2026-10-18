@@ -1,0 +1,2 @@
+# premium-bushing-001-plate-bushing-repair-hole-size
+Stop guessing which press setting or hole size you used last time — the Plate Bushing Repair Hole Size and Press Log is your single source of truth for every repair.  This Notion template eliminates the chaos of sticky notes, scribbled margins, and forgotten measurements. It centralizes every plate bushing repair — hole size, press pressure, date,
